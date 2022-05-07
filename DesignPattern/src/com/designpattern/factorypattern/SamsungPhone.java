@@ -1,4 +1,4 @@
-package com.designpattern;
+package com.designpattern.factorypattern;
 
 public class SamsungPhone implements MobilePhone
 {
