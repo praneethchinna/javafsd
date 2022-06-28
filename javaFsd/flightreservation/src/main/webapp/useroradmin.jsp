@@ -8,6 +8,7 @@
 </head>
 <body>
 <div style="text-align: center;">
+<h1>Welcome to flight reservation (you can book you flights here)</h1>
 <button><a href="searchflights.jsp">User</a></button>
             		&nbsp;&nbsp;&nbsp;&nbsp;
             		<button><a href="adminlogin.jsp">Admin</a></button>

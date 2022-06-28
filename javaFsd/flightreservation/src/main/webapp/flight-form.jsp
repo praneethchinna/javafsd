@@ -13,6 +13,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<jsp:include page="adminhome.jsp" />
 <%! ServiceLayer service=new ServiceLayerImpl();
 List<AirLines> airlines=service.getAllAirLines();
 List<Route> route=service.getAllRoute();

@@ -10,6 +10,7 @@
 <title>List of Flights</title>
 </head>
 <body>
+<jsp:include page="adminhome.jsp" />
  <center>
   <h1>List of Flights</h1>
         <h2>

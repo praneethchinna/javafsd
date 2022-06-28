@@ -8,6 +8,7 @@
 <title>Route Form</title>
 </head>
 <body>
+<jsp:include page="adminhome.jsp" />
  <center>
   <h1>Route Form</h1>
         <h2>

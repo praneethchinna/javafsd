@@ -11,6 +11,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<jsp:include page="userhome.jsp" />
 <h1>Available Flight Details</h1> <br>
 <hr>
 <table border="1" cellpadding="5" style="text-align: center; ">

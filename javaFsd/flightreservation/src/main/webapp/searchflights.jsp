@@ -7,14 +7,15 @@
 <title>Insert title here</title>
 </head>
 <body>
-<div id="makemecenter">
+<jsp:include page="userhome.jsp" />
+<div style="text-align: center;">
 
 <h1>Search Flights Here</h1>
 <form action="SearchFlights" method="post">
-From :<input type="text" name="from" required /><br/>
-TO : <input  type="text" name="to" required /><br/>
-Select Date :<input type="date" name="date" value="2022-06-23" required>
-Travelers :<input type="number" name="travellers" step="1" value="1" max="5" required>
+From :<input type="text" name="from" required /><br/><br/>
+TO : <input  type="text" name="to" required /><br/><br/>
+Select Date :<input type="date" name="date" value="2022-06-23" required><br/><br/>
+Travelers :<input type="number" name="travellers" step="1" value="1" max="5" required><br/><br/>
 <input type="submit" value="Register">
 
 </form>

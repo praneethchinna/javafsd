@@ -12,6 +12,7 @@
 <title>AirLine Form</title>
 </head>
 <body>
+<jsp:include page="adminhome.jsp" />
 <%!int i=0; %>
  <center>
   <h1>AirLine Form</h1>

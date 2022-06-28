@@ -11,7 +11,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+<jsp:include page="userhome.jsp" />
 
 <% Flights flights=(Flights)request.getAttribute("flights"); 
 

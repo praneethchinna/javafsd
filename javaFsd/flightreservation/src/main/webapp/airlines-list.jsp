@@ -12,6 +12,7 @@
 <title>List of Air Lines</title>
 </head>
 <body>
+<jsp:include page="adminhome.jsp" />
  <center>
   <h1>List of Air Lines</h1>
         <h2>

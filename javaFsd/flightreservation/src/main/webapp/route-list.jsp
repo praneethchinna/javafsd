@@ -8,6 +8,7 @@
 <title>Route Management</title>
 </head>
 <body>
+<jsp:include page="adminhome.jsp" />
  <center>
   <h1>Route Management</h1>
         <h2>

@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<jsp:include page="adminhome.jsp" />
 <div style="text-align: center;">
 <% String name=request.getParameter("msg");
 if(name!=null)
